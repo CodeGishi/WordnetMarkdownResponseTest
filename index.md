@@ -81,12 +81,6 @@ This sentence[^1] needs a few footnotes.[^2]
 [^1]: A string of syntactic words.
 [^2]: A useful example sentence.
 
-### PlantUML Diagrams
-
-```plantuml
-Bob->Alice : hello
-```
-
 ### Mermaid Diagrams
 
 ```mermaid

@@ -1,4 +1,4 @@
-# hatespeech
+# hatespeach
 
 ### Opis usługi
 

@@ -2,7 +2,7 @@
 
 ### Opis usługi
 
-Usługa służąca do dodawanie znaków interpunkcyjnych w tekście "[wiki](https://wiki.js.org/about)".
+Usługa służąca do dodawania znaków interpunkcyjnych w tekście "[wiki](https://wiki.js.org/about)".
 
 #### Dostępne opcje
 
